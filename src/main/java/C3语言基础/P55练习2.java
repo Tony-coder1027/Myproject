@@ -9,8 +9,7 @@ public class P55练习2 {
         int monney = 10000;
         String number = "010";
         String a = "12345";
-        System.out.println("    中国工商银行    ");
-        System.out.println();
+        System.out.println("    中国工商银行    \n");
         System.out.println("______________________");
         System.out.println("日期："+date);
         System.out.println("户名:"+name);
